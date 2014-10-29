@@ -1,4 +1,4 @@
-docker_devpi_server
+Docker devpi image
 ===================
 
 Docker image for a devpi server
